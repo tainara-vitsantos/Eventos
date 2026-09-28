@@ -1,0 +1,14 @@
+C:\Users\Tainara\Desktop\ExEvent\Ex3\bin\Debug\net10.0\Ex3.exe
+C:\Users\Tainara\Desktop\ExEvent\Ex3\bin\Debug\net10.0\Ex3.deps.json
+C:\Users\Tainara\Desktop\ExEvent\Ex3\bin\Debug\net10.0\Ex3.runtimeconfig.json
+C:\Users\Tainara\Desktop\ExEvent\Ex3\bin\Debug\net10.0\Ex3.dll
+C:\Users\Tainara\Desktop\ExEvent\Ex3\bin\Debug\net10.0\Ex3.pdb
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.AssemblyInfo.cs
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.dll
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\refint\Ex3.dll
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.pdb
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\Ex3.genruntimeconfig.cache
+C:\Users\Tainara\Desktop\ExEvent\Ex3\obj\Debug\net10.0\ref\Ex3.dll

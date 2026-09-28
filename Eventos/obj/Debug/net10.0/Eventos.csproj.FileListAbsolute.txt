@@ -1,0 +1,14 @@
+C:\Users\Tainara\Desktop\ExEvent\Eventos\bin\Debug\net10.0\Eventos.exe
+C:\Users\Tainara\Desktop\ExEvent\Eventos\bin\Debug\net10.0\Eventos.deps.json
+C:\Users\Tainara\Desktop\ExEvent\Eventos\bin\Debug\net10.0\Eventos.runtimeconfig.json
+C:\Users\Tainara\Desktop\ExEvent\Eventos\bin\Debug\net10.0\Eventos.dll
+C:\Users\Tainara\Desktop\ExEvent\Eventos\bin\Debug\net10.0\Eventos.pdb
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.AssemblyInfo.cs
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.dll
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\refint\Eventos.dll
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.pdb
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\Eventos.genruntimeconfig.cache
+C:\Users\Tainara\Desktop\ExEvent\Eventos\obj\Debug\net10.0\ref\Eventos.dll
