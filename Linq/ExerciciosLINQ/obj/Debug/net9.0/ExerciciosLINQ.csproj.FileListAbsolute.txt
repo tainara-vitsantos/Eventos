@@ -1,0 +1,14 @@
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\bin\Debug\net9.0\ExerciciosLINQ.exe
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\bin\Debug\net9.0\ExerciciosLINQ.deps.json
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\bin\Debug\net9.0\ExerciciosLINQ.runtimeconfig.json
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\bin\Debug\net9.0\ExerciciosLINQ.dll
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\bin\Debug\net9.0\ExerciciosLINQ.pdb
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.AssemblyInfoInputs.cache
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.AssemblyInfo.cs
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.csproj.CoreCompileInputs.cache
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.dll
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\refint\ExerciciosLINQ.dll
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.pdb
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ExerciciosLINQ.genruntimeconfig.cache
+C:\Users\0201392521021\source\repos\ExerciciosLINQ\obj\Debug\net9.0\ref\ExerciciosLINQ.dll
